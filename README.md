@@ -45,6 +45,6 @@ Aquí se añadirán los enlaces a los diagramas
 y prototipos del proyecto.
 
 ## Enlaces
-- Repositorio: enlace a GitHub.
+- Repositorio: https://github.com/davidlogui/NetxPlay
 - Página web: enlace a GitHub Pages.
-- Jira: enlace al tablero del proyecto.
+- Jira: https://iestriana-team-u9w39nn5.atlassian.net/jira/software/projects/KAN/list?jql=project+%3D+KAN+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiNGVlZWJjMTUyNmJhNGI1MmFiNjg1NTZiMzU2ZGE2NGUiLCJwIjoiaiJ9
